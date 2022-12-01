@@ -27,3 +27,8 @@
 - git merge branch
 - git merge --abort
 - git merge -- contiune
+
+## 2 VSCode简介
+
+VS Code是微软家的，是electron开发的黑科技
+非常流行，丰富的插件
